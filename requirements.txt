@@ -1,0 +1,6 @@
+fastapi
+farm-haystack
+uvicorn
+torch
+torchvision
+torchaudio
